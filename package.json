@@ -1,0 +1,18 @@
+{
+  "name": "copycat_mern",
+  "version": "1.0.0",
+  "description": "copying mern from scratch to santahelena reconstruction",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helena LEE",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.1",
+    "prop-types": "^15.7.2"
+  }
+}
